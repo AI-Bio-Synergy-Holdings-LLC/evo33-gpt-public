@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Mac and Linux system files
+.DS_Store
+*.swp
+
+# Python tooling
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Logs and dev notes
+*.log
+*.tmp
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.code-workspace
